@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "image-cropper": "../../wxcomponents/image-cropper/image-cropper"
+  }
+}
